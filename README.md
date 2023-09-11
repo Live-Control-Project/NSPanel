@@ -2,6 +2,9 @@
 
 NSPanel custom UI, open source firmware
 
+Инструкция по разборке и прошивке
+https://live-control.com/wiki/nspanel/
+
 Телеграм канал https://t.me/live_control
 
 ![alt text](screenshots/thermostat.jpg?raw=true)
